@@ -132,8 +132,9 @@ Incorporate Beam Search for more accurate predictions
 ## 🧑‍💻 Author
 
 Saad Hussain
-📘 Computer Science Student | Machine Learning Enthusiast
-🏁 License
+📘 Computer Science Student | AI/ML Enthusiast
+Linkdln: www.linkedin.com/in/saad-hussain-7a752a356
 
+🏁 License
 This project is open-source and available under the MIT License
 .
